@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Silent Doors (Continued)</name>
+  	<packageId>Mlie.SilentDoors</packageId>
+	<author>Mlie</author>
+	<url>https://github.com/emipa606/SilentDoors</url>
+	<supportedVersions>
+		<li>1.1</li>
+	</supportedVersions>
+	<modDependencies />
+	<loadAfter />	
+	<description>Update of Mittsies mod to RimWorld 1.1
+Replaced old code with a patch-based code instead.
+
+Support-chat:
+https://discord.gg/SuhwVpM
+
+--- Original Description ---	
+Removes the sound effect from doors.
+	</description>
+</ModMetaData>
