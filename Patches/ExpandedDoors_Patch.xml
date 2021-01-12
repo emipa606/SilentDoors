@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/SoundDef[defName="HeronGarageOpen"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationReplace">
+      <xpath>/Defs/SoundDef[defName="HeronGarageOpen" or defName="HeronGarageClose" or defName="HeronCurtainOpen" or defName="HeronCurtainClose" or defName="HeronJailDoorOpen" or defName="HeronJailDoorClose" or defName="HeronBlastDoorOpen" or defName="HeronBlastDoorClose"]/subSounds/li[*]/volumeRange</xpath>
+      <value>
+        <volumeRange>0</volumeRange>
+      </value>
+    </match>
+  </Operation>
+</Patch>

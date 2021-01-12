@@ -11,13 +11,23 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>Update of Mittsies mod to RimWorld 1.1
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Mittsies mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=933010556
+
 Replaced old code with a patch-based code instead.
 
-Support-chat:
-https://discord.gg/SuhwVpM
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
---- Original Description ---	
-Removes the sound effect from doors.
-	</description>
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/SilentDoors][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+
+[Mittsies' Tweaks - Silent Doors]  
+Removes the sound effect from doors.</description>
 </ModMetaData>
