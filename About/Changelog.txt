@@ -1,5 +1,8 @@
 # Changelog for SilentDoors
 
+1.5.1 - Added support for the new security doors
+
+
 1.5.0 - Mod updated for 1.5 and passed autotests
 
 

@@ -6,4 +6,14 @@
       <volumeRange>0</volumeRange>
     </value>
   </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/SoundDef[defName="SecurityDoor_Open"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationReplace">
+      <xpath>/Defs/SoundDef[defName="SecurityDoor_Open" or defName="SecurityDoor_BeginClosing" or defName="SecurityDoor_EndClosing"]/subSounds/li[*]/volumeRange</xpath>
+      <value>
+        <volumeRange>0</volumeRange>
+      </value>
+    </match>
+  </Operation>
 </Patch>
